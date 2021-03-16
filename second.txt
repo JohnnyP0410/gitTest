@@ -1,0 +1,4 @@
+Class Member{
+	public String member;
+	public int number;
+}
